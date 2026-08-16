@@ -1,0 +1,9 @@
+BASELINE (n=10 seeds)
+Clean test acc:   0.949 +/- 0.007
+Noisy test acc:   0.894 +/- 0.008
+Effective rank:   16.54 +/- 0.28
+
+SELF-MODELING (n=10 seeds)
+Clean test acc:   0.947 +/- 0.008
+Noisy test acc:   0.893 +/- 0.008
+Effective rank:   16.20 +/- 0.35
